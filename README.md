@@ -3,8 +3,8 @@
   -_Simple game with simple logic written in java._
 
 **Rules**
-  _- There is a grid of 3x3 matrix and you and the other player will have to put accordance to it._
-  - _The marix is as follows_: 
+    _- There is a grid of 3x3 matrix and you and the other player will have to put accordance to it._
+    - _The marix is as follows_: 
 
             |-----------|
             | 1 | 2 | 3 |
