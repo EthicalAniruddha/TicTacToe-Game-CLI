@@ -1,5 +1,6 @@
 **Tic-Tac-Toe game in Command Line Interface**
-  _-Simple game with simple logic written in java._
+
+  -_Simple game with simple logic written in java._
 
 **Rules**
   _- There is a grid of 3x3 matrix and you and the other player will have to put accordance to it._
